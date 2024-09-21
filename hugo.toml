@@ -24,30 +24,30 @@ enableRobotsTXT = true
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/logo.png"
-    alt = "Tella Logo"
+    main = "img/logo.png"
+    alt = "Kalpataru AI"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
     size = "h-14"
 
   [params.site]
-    name = "Tella"
+    name = "Kalpataru AI"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "Tella"
+    meta_description = "Kalpataru AI is a company that provides innovative technology solutions to businesses and individuals seeking innovative strategy and technology."
+    meta_og_title = "Kalpataru AI"
     meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev"
+    meta_og_url = "https://kalpataru.ai"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_twitter_card = "summary_large_image"
-    meta_twitter_site = "@username"
-    meta_twitter_creator = "@username"
+    meta_og_description = "Kalpataru AI is a company that provides innovative technology solutions to businesses and individuals seeking innovative strategy and technology."
+    meta_twitter_card = "Kalpataru AI"
+    meta_twitter_site = "@KalpataruAI"
+    meta_twitter_creator = "@KalpataruAI"
 
 [menu]
 
@@ -83,6 +83,6 @@ enableRobotsTXT = true
 
   [[menu.footer]]
     name = "Github"
-    url = "https://github.com/opera7133/tella"
+    url = "https://github.com/KalpataruAI"
     pre = "<i class='icon-github text-2xl'></i>"
       weight = 2

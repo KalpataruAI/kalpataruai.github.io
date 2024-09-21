@@ -32,3 +32,11 @@ Thumbs.db
 # Ignore editor directories and files
 .vscode/
 .idea/
+
+# Hugo
+/public/
+/resources/_gen/
+/node_modules/
+/.DS_Store
+hugo_stats.json
+
