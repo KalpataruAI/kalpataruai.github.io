@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kalpataru Innovations</title>
+    <title>Kalpataru AI</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Kalpataru Innovations</description>
+    <description>Recent content on Kalpataru AI</description>
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Vision To be the world&amp;rsquo;s leading provider of innovative technology solutions, empowering businesses and individuals to achieve their strategic goals through cutting-edge technology.&#xA;Mission To enable businesses and individuals to create and deploy novel technologies that solve real-world challenges, driving progress and innovation.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>To contact us, please fill out the form below.</description>
+    </item>
   </channel>
 </rss>
